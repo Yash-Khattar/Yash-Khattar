@@ -1,4 +1,14 @@
 <div align="center">
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" /> -->
+
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&width=435&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Ciao%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Hola%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Bonjour%2C+World!+%2F+%3E)](https://github.com/Yash-Khattar)
+
+</div>  
+
+
+
+<div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
